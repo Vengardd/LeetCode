@@ -1,4 +1,4 @@
-package TwoSum_1;
+package _1.TwoSum;
 
 public class TwoSum {
     public int[] twoSum(int[] nums, int target) {

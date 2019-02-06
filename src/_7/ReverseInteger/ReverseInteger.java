@@ -1,4 +1,4 @@
-package ReverseInteger_7;
+package _7.ReverseInteger;
 
 public class ReverseInteger {
     //own impl with StringBuilder

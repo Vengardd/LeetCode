@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76aaa1ff-b027-4835-957e-921229ca0908" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PalindromeNumber_9/PalindroneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PalindromeNumber_9/description.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LongestSubtringWithoutRepeatingCharacteres_3/LongestSubstringWithoutRepeatingCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LongestSubtringWithoutRepeatingCharacteres_3/LongestSubstringWithoutRepeatingCharacters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LongestSubtringWithoutRepeatingCharacteres_3/LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongestSubtringWithoutRepeatingCharacteres_3/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-    </list>
+    <list default="true" id="76aaa1ff-b027-4835-957e-921229ca0908" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -159,18 +153,6 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="PalindromeNumber_9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ReverseInteger_7" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -197,11 +179,11 @@
   </component>
   <component name="RunManager" selected="Application.LongestSubstringWithoutRepeatingCharacters">
     <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AddTwoNumbers_2.AddTwoNumbers" />
+      <option name="MAIN_CLASS_NAME" value="_2_AddTwoNumbers.AddTwoNumbers" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AddTwoNumbers_2.*" />
+          <option name="PATTERN" value="_2_AddTwoNumbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,16 +240,15 @@
       <workItem from="1549216250247" duration="12407000" />
       <workItem from="1549297719658" duration="3669000" />
       <workItem from="1549365037211" duration="613000" />
-      <workItem from="1549475897546" duration="1893000" />
+      <workItem from="1549475897546" duration="3120000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18582000" />
+    <option name="totallyTimeSpent" value="19809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1299" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35115722" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

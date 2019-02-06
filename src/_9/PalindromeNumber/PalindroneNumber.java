@@ -1,4 +1,4 @@
-package PalindromeNumber_9;
+package _9.PalindromeNumber;
 
 public class PalindroneNumber {
     public boolean isPalindrome(int x) {

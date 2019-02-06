@@ -1,4 +1,4 @@
-package LongestSubtringWithoutRepeatingCharacteres_3;
+package _3.LongestSubtringWithoutRepeatingCharacteres;
 
 public class LongestSubstringWithoutRepeatingCharacters {
 
