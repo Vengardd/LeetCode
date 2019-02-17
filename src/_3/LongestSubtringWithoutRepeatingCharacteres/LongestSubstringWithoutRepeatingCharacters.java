@@ -12,7 +12,7 @@ public class LongestSubstringWithoutRepeatingCharacters {
         System.out.println((t2 - t1) % 1000);
     }
 
-    //linear
+    //linear(sliding windows)
     public int lengthOfLongestSubstring(String s) {
         if(s.length() > 0) {
             int currentLength = 1;

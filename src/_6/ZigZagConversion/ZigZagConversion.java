@@ -27,6 +27,6 @@ public class ZigZagConversion {
                 ret.append(sb.toString());
             }
             return ret.toString();
-        } else return s;
+        } return s;
     }
 }
