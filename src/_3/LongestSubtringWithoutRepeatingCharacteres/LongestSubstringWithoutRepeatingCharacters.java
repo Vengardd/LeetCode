@@ -17,7 +17,7 @@ public class LongestSubstringWithoutRepeatingCharacters {
         if(s.length() > 0) {
             int currentLength = 1;
             int maxLength = 1;
-            int previousIndex;
+            int actualChar;
             int[] visited = new int[256];
             for (int i = 0; i < visited.length; i++) {
                 visited[i] = -1;
@@ -25,13 +25,13 @@ public class LongestSubstringWithoutRepeatingCharacters {
             visited[s.charAt(0)] = 0;
 
             for (int i = 1; i < s.length(); i++) {
-                previousIndex = visited[s.charAt(i)];
-                if (previousIndex == -1 || i - currentLength > previousIndex)
+                actualChar = visited[s.charAt(i)];
+                if (actualChar == -1 || i - currentLength > actualChar)
                     currentLength++;
                 else {
                     if (currentLength > maxLength)
                         maxLength = currentLength;
-                    currentLength = i - previousIndex;
+                    currentLength = i - actualChar;
                 }
                 visited[s.charAt(i)] = i;
             }
