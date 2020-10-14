@@ -2,63 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76aaa1ff-b027-4835-957e-921229ca0908" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LengthOfLastWord/LengthOfLastWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LongestCommonPrefix/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LongestCommonPrefix/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LongestCommonPrefix/LongestCommonPrefixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/common/Common.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/_1/TwoSum/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/_1/TwoSum/description.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/_11/ContainterWithMostWater/ContainerWithMostWater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/_13/RomanToInteger/RomanToInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/_13/RomanToInteger/description.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/_2/AddTwoNumbers/AddTwoNumbers$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/_2/AddTwoNumbers/AddTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/_2/AddTwoNumbers/description.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/_3/LongestSubtringWithoutRepeatingCharacteres/LongestSubstringWithoutRepeatingCharacters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/_3/LongestSubtringWithoutRepeatingCharacteres/description.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/_5/LongestPalindromicSubstring/LongestPalindromicSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/_5/LongestPalindromicSubstring/description.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/_6/ZigZagConversion/ZigZagConversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/_6/ZigZagConversion/description.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/_7/ReverseInteger/ReverseInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/_7/ReverseInteger/description.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/_9/PalindromeNumber/PalindroneNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/_9/PalindromeNumber/description.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_1/TwoSum/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TwoSum/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_1/TwoSum/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TwoSum/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11/ContainterWithMostWater/ContainerWithMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ContainterWithMostWater/ContainerWithMostWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11/ContainterWithMostWater/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ContainterWithMostWater/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_13/RomanToInteger/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RomanToInteger/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_13/RomanToInteger/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RomanToInteger/RomanToInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_198/HouseRobber/HouseRobber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HouseRobber/HouseRobber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_198/HouseRobber/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HouseRobber/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_2/AddTwoNumbers/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AddTwoNumbers/AddTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_2/AddTwoNumbers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AddTwoNumbers/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_21/MergeTwoSortedLists/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MergeTwoSortedLists/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_21/MergeTwoSortedLists/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MergeTwoSortedLists/MergeTwoSortedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_21/MergeTwoSortedLists/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MergeTwoSortedLists/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_3/LongestSubtringWithoutRepeatingCharacteres/LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LongestSubtringWithoutRepeatingCharacteres/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_3/LongestSubtringWithoutRepeatingCharacteres/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LongestSubtringWithoutRepeatingCharacteres/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_5/LongestPalindromicSubstring/LongestPalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LongestPalindromicSubstring/LongestPalindromicSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_5/LongestPalindromicSubstring/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LongestPalindromicSubstring/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_53/MaximumSubarray/MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MaximumSubarray/MaximumSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_53/MaximumSubarray/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MaximumSubarray/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_58/LengthOfLastWord/LengthOfLastWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_58/LengthOfLastWord/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LengthOfLastWord/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_6/ZigZagConversion/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZigZagConversion/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_6/ZigZagConversion/ZigZagConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZigZagConversion/ZigZagConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_7/ReverseInteger/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReverseInteger/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_7/ReverseInteger/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReverseInteger/ReverseInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_76/MinimumWindowSubstring/MinimumWindowSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MinimumWindowSubstring/MinimumWindowSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_76/MinimumWindowSubstring/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MinimumWindowSubstring/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_9/PalindromeNumber/PalindroneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PalindromeNumber/PalindroneNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_9/PalindromeNumber/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PalindromeNumber/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LongestCommonPrefix/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LongestCommonPrefix/LongestCommonPrefix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +38,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand />
@@ -99,25 +53,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>l1</find>
-      <find>previousIndex</find>
-      <find>maxSize</find>
-      <find>actualmaxSize</find>
-      <find>actualMaxSize</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>actualChar</replace>
-      <replace>actualmaxSize</replace>
-      <replace>actualMaxSize</replace>
-      <replace>actualSize</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -145,94 +84,118 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="LongestCommonPrefix" />
       <recent name="AddTwoNumbers" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaximumSubarray">
-    <configuration name="ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.ContainterWithMostWater.ContainerWithMostWater" />
-      <module name="LeetCode" />
+  <component name="RunManager" selected="JUnit.LongestCommonPrefixTest">
+    <configuration name="LongestCommonPrefixTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;LongestCommonPrefix.LongestCommonPrefixTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="LongestCommonPrefixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode.test" />
+      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.ContainterWithMostWater.*" />
+          <option name="PATTERN" value="LongestCommonPrefix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="LongestCommonPrefix" />
+      <option name="MAIN_CLASS_NAME" value="LongestCommonPrefix.LongestCommonPrefixTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.LongestCommonPrefix.LongestCommonPrefix" />
-      <module name="LeetCode" />
+    <configuration name="LongestCommonPrefixTest.onEmptyStringsShouldReturnEmptyString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.LongestCommonPrefix.*" />
+          <option name="PATTERN" value="LongestCommonPrefix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="LongestCommonPrefix" />
+      <option name="MAIN_CLASS_NAME" value="LongestCommonPrefix.LongestCommonPrefixTest" />
+      <option name="METHOD_NAME" value="onEmptyStringsShouldReturnEmptyString" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubstringWithoutRepeatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestSubtringWithoutRepeatingCharacteres_3.LongestSubstringWithoutRepeatingCharacters" />
-      <module name="LeetCode" />
+    <configuration name="LongestCommonPrefixTest.onStringsShouldReturnCommonPrefix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LongestSubtringWithoutRepeatingCharacteres_3.*" />
+          <option name="PATTERN" value="LongestCommonPrefix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="LongestCommonPrefix" />
+      <option name="MAIN_CLASS_NAME" value="LongestCommonPrefix.LongestCommonPrefixTest" />
+      <option name="METHOD_NAME" value="onStringsShouldReturnCommonPrefix" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubstringWithoutRepeatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.LongestSubtringWithoutRepeatingCharacteres.LongestSubstringWithoutRepeatingCharacters" />
-      <module name="LeetCode" />
+    <configuration name="LongestCommonPrefixTest.onTwoStringsWithFirstLongerThanSecondShouldReturnCommonPrefix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.LongestSubtringWithoutRepeatingCharacteres.*" />
+          <option name="PATTERN" value="LongestCommonPrefix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.MaximumSubarray.MaximumSubarray" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.MaximumSubarray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="LongestCommonPrefix" />
+      <option name="MAIN_CLASS_NAME" value="LongestCommonPrefix.LongestCommonPrefixTest" />
+      <option name="METHOD_NAME" value="onTwoStringsWithFirstLongerThanSecondShouldReturnCommonPrefix" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters" />
-      <item itemvalue="Application.ContainerWithMostWater" />
-      <item itemvalue="Application.LongestCommonPrefix" />
-      <item itemvalue="Application.MaximumSubarray" />
+      <item itemvalue="Gradle.LongestCommonPrefixTest" />
+      <item itemvalue="JUnit.LongestCommonPrefixTest" />
+      <item itemvalue="JUnit.LongestCommonPrefixTest.onEmptyStringsShouldReturnEmptyString" />
+      <item itemvalue="JUnit.LongestCommonPrefixTest.onStringsShouldReturnCommonPrefix" />
+      <item itemvalue="JUnit.LongestCommonPrefixTest.onTwoStringsWithFirstLongerThanSecondShouldReturnCommonPrefix" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaximumSubarray" />
-        <item itemvalue="Application.LongestCommonPrefix" />
-        <item itemvalue="Application.ContainerWithMostWater" />
-        <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters" />
+        <item itemvalue="JUnit.LongestCommonPrefixTest" />
+        <item itemvalue="JUnit.LongestCommonPrefixTest.onTwoStringsWithFirstLongerThanSecondShouldReturnCommonPrefix" />
+        <item itemvalue="JUnit.LongestCommonPrefixTest.onStringsShouldReturnCommonPrefix" />
+        <item itemvalue="JUnit.LongestCommonPrefixTest.onEmptyStringsShouldReturnEmptyString" />
+        <item itemvalue="Gradle.LongestCommonPrefixTest" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +224,8 @@
       <workItem from="1554326583614" duration="819000" />
       <workItem from="1554378973129" duration="1039000" />
       <workItem from="1602667673225" duration="2130000" />
-      <workItem from="1602669828609" duration="598000" />
+      <workItem from="1602669828609" duration="1923000" />
+      <workItem from="1602671844395" duration="5544000" />
     </task>
     <servers />
   </component>
@@ -269,6 +233,18 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="197" width="816" height="733" key="#Intentions" timestamp="1602675225852">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="197" width="816" height="733" key="#Intentions/0.0.1920.1080@0.0.1920.1080" timestamp="1602675225852" />
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602671751941">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602671751941" />
+    <state x="765" y="255" key="#com.intellij.ide.util.MemberChooser" timestamp="1602674076433">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="255" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1602674076433" />
     <state x="690" y="315" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1602670220537">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -277,26 +253,42 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1220" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1602669803423" />
-    <state width="900" height="290" key="GridCell.Tab.0.bottom" timestamp="1602669805150">
+    <state width="1876" height="307" key="GridCell.Tab.0.bottom" timestamp="1602674995518">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="900" height="290" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602669805150" />
-    <state width="900" height="290" key="GridCell.Tab.0.center" timestamp="1602669805149">
+    <state width="1876" height="307" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602674995518" />
+    <state width="1876" height="307" key="GridCell.Tab.0.center" timestamp="1602674995517">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="900" height="290" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602669805149" />
-    <state width="900" height="290" key="GridCell.Tab.0.left" timestamp="1602669805149">
+    <state width="1876" height="307" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602674995517" />
+    <state width="1876" height="307" key="GridCell.Tab.0.left" timestamp="1602674995517">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="900" height="290" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602669805149" />
-    <state width="900" height="290" key="GridCell.Tab.0.right" timestamp="1602669805150">
+    <state width="1876" height="307" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602674995517" />
+    <state width="1876" height="307" key="GridCell.Tab.0.right" timestamp="1602674995517">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="900" height="290" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602669805150" />
-    <state x="440" y="113" key="SettingsEditor" timestamp="1602669960815">
+    <state width="1876" height="307" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602674995517" />
+    <state width="1876" height="357" key="GridCell.Tab.1.bottom" timestamp="1602673454963">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="440" y="113" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1602669960815" />
+    <state width="1876" height="357" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602673454963" />
+    <state width="1876" height="357" key="GridCell.Tab.1.center" timestamp="1602673454963">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="357" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602673454963" />
+    <state width="1876" height="357" key="GridCell.Tab.1.left" timestamp="1602673454963">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="357" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602673454963" />
+    <state width="1876" height="357" key="GridCell.Tab.1.right" timestamp="1602673454963">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="357" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602673454963" />
+    <state x="440" y="113" key="SettingsEditor" timestamp="1602671126453">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="113" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1602671126453" />
     <state x="776" y="317" key="chooseDestDirectoryDialog" timestamp="1602670347381">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -305,14 +297,30 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="665" y="430" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1602670213763" />
-    <state x="731" y="333" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1602670247551">
+    <state x="731" y="333" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1602670537529">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="731" y="333" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602670247551" />
+    <state x="731" y="333" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602670537529" />
+    <state x="690" y="289" key="extract.method.dialog" timestamp="1602672822891">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="289" key="extract.method.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602672822891" />
+    <state x="667" y="273" width="585" height="534" key="find.popup" timestamp="1602670497517">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="273" width="585" height="534" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602670497517" />
     <state x="685" y="159" key="new project wizard" timestamp="1602669730295">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="685" y="159" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1602669730295" />
+    <state x="616" y="245" key="run.anything.popup" timestamp="1602671147868">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="245" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602671147868" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1602670500219">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602670500219" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -328,5 +336,10 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCode$LongestCommonPrefixTest.ic" NAME="LongestCommonPrefixTest Coverage Results" MODIFIED="1602671396936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LongestCommonPrefix.*</FILTER>
+    </SUITE>
   </component>
 </project>
